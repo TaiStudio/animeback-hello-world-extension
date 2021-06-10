@@ -1,5 +1,9 @@
 # animeback-hello-world-extension
 
+<p align='center'>
+  <a href="https://buymeacoffee.com/taistudio" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
+</p>
+
 A ```Hello World``` extension.
 
 ## 🚀 Adding your extension

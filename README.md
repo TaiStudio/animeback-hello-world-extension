@@ -16,7 +16,7 @@ please read the [contributing](https://github.com/TaiStudio/animeback-submit/blo
 See [CONTRIBUTING.md#how-it-works](https://github.com/TaiStudio/animeback-submit/blob/master/CONTRIBUTING.md#how-it-works)
 
 ## 📥 Download Animeback for FREE:
-<a href="https://animeback.tai-studio.ml/">
+<a href="https://animeback-tai-studio.netlify.app/">
   <img src="https://img.shields.io/github/downloads/LeGitHubDeTai/AnimeBack/total">
 </a>
 
